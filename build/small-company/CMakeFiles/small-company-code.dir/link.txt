@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/small-company-code.dir/code.cpp.o -o small-company-code 

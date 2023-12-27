@@ -1,0 +1,15 @@
+# ninja log v5
+1	66	1703707283219546087	build.ninja	cb5d69e6391aea48
+1	528	1703702187585736028	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	da40f32cb75eb7e7
+373	405	1703048191691038273	Algorithms	5a4505a593de277b
+13	836	1703706572681692394	football-team/CMakeFiles/test-football-team.dir/test.cpp.o	d63993836f26f10f
+1555	1640	1703702188702155000	lib/libgtest.a	39900c68662c249
+598	653	1703052635553438976	remove-ones/test	8dc28ed6bcfd27ed
+1	1555	1703702188611001011	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	1073ca602d7b5571
+621	667	1703050760112765782	remove-ones/test_remove_once	7ddabad69ad7cb73
+6	597	1703052635494811364	remove-ones/CMakeFiles/test.dir/test.cpp.o	e70675f0cf8ce434
+6	621	1703050760064843621	remove-ones/CMakeFiles/test_remove_once.dir/test.cpp.o	7fc6bac08fdc1c0
+808	862	1703706201203667786	football-team/test-football-team	129e4f090addbb3b
+1640	1656	1703702188717875000	lib/libgtest_main.a	54be1f67112d1e48
+12	636	1703706572480245672	football-team/CMakeFiles/football-team-library.dir/code.cpp.o	3f2e701bab54421f
+636	658	1703706572507283000	football-team/libfootball-team-library.a	6105d8900f3d775b

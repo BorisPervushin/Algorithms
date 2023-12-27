@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Werror -Wsign-compare -fsanitize=address -fno-omit-frame-pointer CMakeFiles/test-new-task.dir/test.cpp.o -o test-new-task  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 

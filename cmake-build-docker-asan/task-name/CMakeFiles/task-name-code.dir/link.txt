@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Werror -Wsign-compare -fsanitize=address -fno-omit-frame-pointer CMakeFiles/task-name-code.dir/code.cpp.o -o task-name-code 

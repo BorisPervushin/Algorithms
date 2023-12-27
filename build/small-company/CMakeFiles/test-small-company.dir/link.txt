@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test-small-company.dir/test.cpp.o -o test-small-company  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 

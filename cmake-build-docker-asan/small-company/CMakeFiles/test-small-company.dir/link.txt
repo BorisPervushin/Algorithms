@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Werror -Wsign-compare -fsanitize=address -fno-omit-frame-pointer CMakeFiles/test-small-company.dir/test.cpp.o -o test-small-company  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 
